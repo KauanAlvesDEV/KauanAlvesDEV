@@ -16,5 +16,5 @@ Atualmente estudando C e C++ <br>Procurando um estagio<br>Possuo experiencia pro
 [![](https://visitcount.itsvg.in/api?id=KauanAlvesDEV&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img alaing=center alt="batista" src="https://tenor.com/pt-BR/view/dark-souls-collapse-defeated-gif-14214156"/>
+  <img alaing=center alt="dines" src="https://media1.tenor.com/m/LyNTMEpThDQAAAAC/dark-souls-collapse.gif"/>
 </div>
