@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Atualmente estudando C e C++ <br>Procurando um estagio<br>Possuo experiencia profissional em áreas administrativas <br>1° semestre de Ciências da computação 
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kauan Alves) 
 
 # 💻 Tech Stack:
